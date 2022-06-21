@@ -1,6 +1,16 @@
-# myportfolio
-This repository is for my portfolio which i have created in css and html
-Title of project : My portfolio website
-This is a very simple website which shows my portfolio my skill and project done so far.
-Technologies : html, css
-Launch date : 14/06/ 2022
+Portfolio website
+By Bibhuti bhushan
+This Webpage is showing my portfolio
+Technologies Used
+HTML
+CSS
+
+Description
+This website is used to diplay my skill work experience and all other stuffs
+
+Setup/Installation Requirements
+Clone this repo to your desktop
+Naviagte to the top level of directory
+Open index.html in your browser
+Note
+This site best viewed in Google Chrome
